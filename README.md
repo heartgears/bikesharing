@@ -6,7 +6,7 @@ Katie is a Des Moines resident who recently completed a trip to New York City. W
 ## Results
 
 ### 1. Checkout Times for Users
-![Checkout_Times_for_Users](Checkout_Times_for_Users.png)
+![Checkout_Times_for_Users](Tableau_Screenshots/Checkout_Times_for_Users.png)
 
 ### 2. Checkout Times by Gender
 
