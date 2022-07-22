@@ -35,3 +35,5 @@ The above assumption is bolstered by the final graph. The difference between the
 
 ## Summary
 If the Des Moines bike project is going to thrive, it will need a solid base of commuters who live close to their work places, ideally in the downtown area. The second, less significant group will be a base of consumers who will use the bikes for activity and exercise on the weekends.
+
+Two additional, potentially useful visualizations would include two maps for Top Starting and Ending Locations by weekday, to confirm the assumptions outlined above.
