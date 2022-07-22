@@ -38,4 +38,4 @@ If the Des Moines bike project is going to thrive, it will need a solid base of 
 
 Two additional, potentially useful visualizations would include two maps for Top Starting and Ending Locations by weekday, to confirm the assumptions outlined above.
 
-[link to dashboard](https://public.tableau.com/app/profile/hunter.gierhart/viz/Book1_16579451873340/ChallengeStory)
+[Click Here to see the full Citibike Tableau Dashboard](https://public.tableau.com/app/profile/hunter.gierhart/viz/Book1_16579451873340/ChallengeStory)
